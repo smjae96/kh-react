@@ -1,0 +1,5 @@
+section {display:flex; justify-content: center; align-items: center;}
+article {display:flex; flex-direction: column;}
+article input {width: 200px;}
+a {margin-right: 5px;}
+
